@@ -1,0 +1,7 @@
+{
+  "name": "camaraWebServicesAndreaArmas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
