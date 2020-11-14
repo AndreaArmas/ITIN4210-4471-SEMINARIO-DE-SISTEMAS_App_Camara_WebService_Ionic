@@ -1,1 +1,1 @@
-Implementación de aplicación móvil en Ionic de Sebastian Armas que consta de acceso a cpamara y lectura de web services
+Implementación de aplicación móvil en Ionic de Sebastian Armas que consta de acceso a cámara y lectura de web services
